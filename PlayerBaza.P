@@ -1,0 +1,17 @@
+:- dynamic(rijec/1).
+
+rijec(vary).
+rijec(screameraw).
+rijec(recast).
+rijec(structure).
+rijec(breakwater).
+rijec(nourish).
+rijec(collider).
+rijec(atten).
+rijec(ache).
+rijec(public).
+rijec(clairvoyant).
+rijec(enchanted).
+rijec(eruption).
+rijec(blasted).
+rijec(faint).

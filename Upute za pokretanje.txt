@@ -1,0 +1,7 @@
+Oba programa pokrenuti u dvije konzole korištenjem naredbi:
+
+python3 Host.py
+
+i
+
+python3 Player.py
